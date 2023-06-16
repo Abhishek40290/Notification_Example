@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notification Example</string>
+    <string name="desc_text">Hello there, the notification feature is working properly no need to worry.</string>
+</resources>
